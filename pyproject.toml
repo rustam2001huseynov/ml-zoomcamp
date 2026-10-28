@@ -25,3 +25,8 @@ ml-zoomcamp = "ml_zoomcamp:main"
 [build-system]
 requires = ["uv_build>=0.12.17,<0.13.0"]
 build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "awsebcli>=3.27.5",
+]

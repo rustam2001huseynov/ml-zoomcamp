@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dd1746c-254b-457c-a45c-1b8dd2c84a0a" name="Changes" comment="module 4 hw update">
-      <change afterPath="$PROJECT_DIR$/module-5/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-5/churn-prediction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-5/ping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-5/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-5/predict_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-5/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module-5/train.py" afterDir="false" />
+    <list default="true" id="5dd1746c-254b-457c-a45c-1b8dd2c84a0a" name="Changes" comment="module 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module-3/homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module-3/homework.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-5/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/module-5/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module-5/predict_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/module-5/predict_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
     </list>
@@ -48,61 +42,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3639506788305231" />
-      <entry key="MS500" value="2.531926040086825" />
-      <entry key="S2" value="7.781567254004351" />
-      <entry key="S5" value="14.392706789130678" />
-      <entry key="S10" value="19.158310972819034" />
-      <entry key="S30" value="23.91346648795854" />
-      <entry key="S60" value="25.38653149291139" />
-      <entry key="M2" value="26.17507563073428" />
-      <entry key="M5" value="26.890089932112453" />
-      <entry key="M10" value="29.42483318495817" />
-      <entry key="M15" value="33.7778374346417" />
-      <entry key="M30" value="55.19316949054752" />
-      <entry key="H1" value="131.4531870536706" />
-      <entry key="H2" value="317.669549684184" />
-      <entry key="H4" value="643.337036614835" />
-      <entry key="D1" value="2229.4562128907164" />
-      <entry key="W1" value="3266.12104693059" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000000007" />
+      <entry key="S30" value="1.0000364788523057" />
+      <entry key="S60" value="1.0170852855699128" />
+      <entry key="M2" value="1.377868354919864" />
+      <entry key="M5" value="3.928805248751757" />
+      <entry key="M10" value="9.123192667992297" />
+      <entry key="M15" value="14.784841566738873" />
+      <entry key="M30" value="34.58209953899269" />
+      <entry key="H1" value="97.80441507225936" />
+      <entry key="H2" value="268.61735454688255" />
+      <entry key="H4" value="590.3972838530561" />
+      <entry key="D1" value="2204.4204143106313" />
+      <entry key="W1" value="3274.2598831660944" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.0666033185547056E-250" />
-      <entry key="S5" value="1.0261271348771427E-100" />
-      <entry key="S10" value="1.0129793358589019E-50" />
-      <entry key="S30" value="2.1637156951502223E-17" />
-      <entry key="S60" value="4.651575749302837E-9" />
-      <entry key="M2" value="6.820246146073339E-5" />
-      <entry key="M5" value="0.021553611068541586" />
-      <entry key="M10" value="0.14690689238954094" />
-      <entry key="M15" value="0.2835728116602376" />
-      <entry key="M30" value="0.945129268389683" />
-      <entry key="H1" value="5.761795070749137" />
-      <entry key="H2" value="21.8117503193845" />
-      <entry key="H4" value="50.29993877212427" />
-      <entry key="D1" value="158.9456289118504" />
-      <entry key="W1" value="224.1250207588306" />
+      <entry key="MS500" value="5.4839147E-317" />
+      <entry key="S2" value="8.605431835301298E-80" />
+      <entry key="S5" value="2.3654243737250934E-32" />
+      <entry key="S10" value="1.5379936195332844E-16" />
+      <entry key="S30" value="5.357779603466933E-6" />
+      <entry key="S60" value="0.002314687798271493" />
+      <entry key="M2" value="0.04811120249890722" />
+      <entry key="M5" value="0.29718823627075974" />
+      <entry key="M10" value="0.5546163480966095" />
+      <entry key="M15" value="0.7131136946268108" />
+      <entry key="M30" value="1.196890622075323" />
+      <entry key="H1" value="4.557390334497697" />
+      <entry key="H2" value="18.319543152677884" />
+      <entry key="H4" value="45.86071177181438" />
+      <entry key="D1" value="156.95295344618353" />
+      <entry key="W1" value="224.51751619948095" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3451700110875084" />
-      <entry key="MS500" value="2.523732052418787" />
-      <entry key="S2" value="7.773714004743186" />
-      <entry key="S5" value="14.386724624107087" />
-      <entry key="S10" value="19.154299004418498" />
-      <entry key="S30" value="23.911790785059843" />
-      <entry key="S60" value="25.38564137300403" />
-      <entry key="M2" value="26.174684070159373" />
-      <entry key="M5" value="26.91135972175655" />
-      <entry key="M10" value="29.571281894516" />
-      <entry key="M15" value="34.06077997285767" />
-      <entry key="M30" value="56.135356885860624" />
-      <entry key="H1" value="137.2024064681231" />
-      <entry key="H2" value="339.4577963031499" />
-      <entry key="H4" value="693.6097347781948" />
-      <entry key="D1" value="2388.385392594785" />
-      <entry key="W1" value="3490.2426137036077" />
+      <entry key="MS100" value="0.29118339661711395" />
+      <entry key="MS500" value="0.7813278801723174" />
+      <entry key="S2" value="0.9401742025091261" />
+      <entry key="S5" value="0.9756259249753851" />
+      <entry key="S10" value="0.987737781486254" />
+      <entry key="S30" value="0.9959372589730725" />
+      <entry key="S60" value="1.0172681679461748" />
+      <entry key="M2" value="1.4241341935276886" />
+      <entry key="M5" value="4.223531408038263" />
+      <entry key="M10" value="9.675671528340706" />
+      <entry key="M15" value="15.496154248934513" />
+      <entry key="M30" value="35.77677445521145" />
+      <entry key="H1" value="102.35326045227823" />
+      <entry key="H2" value="286.91788139165686" />
+      <entry key="H4" value="636.2335332396808" />
+      <entry key="D1" value="2361.357201614707" />
+      <entry key="W1" value="3498.773950974745" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -189,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792432856876</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="module 5">
+      <option name="closed" value="true" />
+      <created>1793130627163</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1793130627163</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +212,7 @@
     <MESSAGE value="hw1" />
     <MESSAGE value="module 3 hw" />
     <MESSAGE value="module 4 hw update" />
-    <option name="LAST_COMMIT_MESSAGE" value="module 4 hw update" />
+    <MESSAGE value="module 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="module 5" />
   </component>
 </project>
