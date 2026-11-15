@@ -1,0 +1,27 @@
+[project]
+name = "guitar-tab-transcriber"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.162.4",
+    "joblib>=1.6.0",
+    "librosa>=1.0.0",
+    "numpy>=2.5.4",
+    "pandas>=3.1.1",
+    "pydantic>=2.14.3",
+    "python-multipart>=0.0.33",
+    "scikit-learn>=1.9.1",
+    "soundfile>=0.14.0",
+    "uvicorn>=0.54.0",
+    "xgboost>=3.4.1",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "openpyxl>=3.1.5",
+    "requests>=2.34.2",
+    "seaborn>=0.13.2",
+    "tqdm>=4.70.1",
+]
